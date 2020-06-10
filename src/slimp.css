@@ -125,51 +125,51 @@ b, strong {
   flex-grow: 1;
 }
 
-.col .one {
+.col.one {
   max-width: calc(100% * 1 / (12/1));
 }
 
-.col .two {
+.col two {
   max-width: calc(100% * 2 / (12/2));
 }
 
-.col .three {
+.col.three {
   max-width: calc(100% * 3 / (12/3));
 }
 
-.col .four {
+.col.four {
   max-width: calc(100% * 4 / (12/4));
 }
 
-.col .five {
+.col.five {
   max-width: calc(100% * 5 / (12/5));
 }
 
-.col .six {
+.col.six {
   max-width: calc(100% * 6 / (12/6));
 }
 
-.col .seven {
+.col.seven {
   max-width: calc(100% * 7 / (12/7));
 }
 
-.col .eight {
+.col.eight {
   max-width: calc(100% * 8 / (12/8));
 }
 
-.col .nine {
+.col.nine {
   max-width: calc(100% * 9 / (12/9));
 }
 
-.col .ten {
+.col.ten {
   max-width: calc(100% * 10 / (12/10));
 }
 
-.col .eleven {
+.col.eleven {
   max-width: calc(100% * 11 / (12/11));
 }
 
-.col .twelve {
+.col.twelve {
   max-width: calc(100% * 12 / (12/12));
 }
 
